@@ -1,0 +1,21 @@
+body{
+	background-color:black;
+	color:white;
+	text-align:center;
+}
+
+#inputBox{
+	background-color:#9999FF;
+	width:20%;
+	margin:0 auto;
+	border:white solid 5px;
+	padding:10px;
+}
+
+#content > div{
+	background-color:#55FF55;
+	padding:20px;
+	width:20%;
+	margin:20px auto;
+	border:5px solid white;
+}
